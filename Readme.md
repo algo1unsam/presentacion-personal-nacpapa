@@ -13,4 +13,4 @@ Algun día me gustaria vivir en el sur argentino.
 
 Esta es una foto de la grabación del ultimo album de Arctic Monkeys
 
-<div style="text-align:center"><img src="arctic.jpg" width="200" />
+<div style="text-align:center"><img src="arctic.jpg" width="400" />
