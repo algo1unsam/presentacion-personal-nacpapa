@@ -10,3 +10,7 @@ Me encanta la informatica, las redes informaticas y todo lo que tenga un cerebro
 Mi pelicula favorita es "El codigo enigma" y me se todos los dialogos de memoria.
 Ahora no tengo mascotas porque me mude a un departamento pero siempre tuve gatos y me encantan los animales.
 Algun día me gustaria vivir en el sur argentino.
+
+Esta es una foto de la grabación del ultimo album de Arctic Monkeys
+
+<div style="text-align:center"><img src="arctic.jpg" width="200" />
